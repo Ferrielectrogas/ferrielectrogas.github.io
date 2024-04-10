@@ -564,7 +564,7 @@
 
 /*** Footer ***/
 .footer {
-  background: linear-gradient(rgba(53, 53, 53, 0.7), rgba(53, 53, 53, 0.7)),
+  background: linear-gradient(rgba(11, 118, 41, 1), rgba(53, 53, 53, 0.7)),
     url(../img/footer.jpg) center center no-repeat;
   background-size: cover;
 }
